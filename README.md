@@ -4,6 +4,7 @@ One site for all internet tools
 ## Tools:
 - [Characters Counter](https://nimityx.github.io/omnitools/characters-counter.html)
 - [Clock](https://nimityx.github.io/omnitools/clock.html)
+- [Screen Colors](https://nimityx.github.io/omnitools/screen-colors.html)
 - [Space Remover](https://nimityx.github.io/omnitools/space-remover.html)
 - [URL Encoder](https://nimityx.github.io/omnitools/url-encoder.html)
 - [URL Decoder](https://nimityx.github.io/omnitools/url-decoder.html)
