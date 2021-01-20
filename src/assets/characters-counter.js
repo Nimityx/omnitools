@@ -2,7 +2,8 @@
 * characters-counter.js
 * https://github.com/Nimityx/omnitools/blob/main/src/assets/characters-counter.js
 * https://github.com/Nimityx/omnitools/blob/main/src/characters-counter.html
-*
+* https://nimityx.github.io/omnitools/characters-counter.html
+* 
 * By Nimityx, https://github.com/Nimityx
 *
 * License : https://github.com/Nimityx/omnitools/blob/main/LICENSE (AGPL-3.0)
